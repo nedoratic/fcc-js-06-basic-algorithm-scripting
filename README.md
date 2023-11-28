@@ -1,0 +1,1 @@
+# fcc-js-06-basic-algorithm-scripting
